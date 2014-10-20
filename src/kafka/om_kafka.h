@@ -1,6 +1,6 @@
 /*
  * Free as in the oxygen you breathe, do whatever you like with this, at your own risk
- * Author: Filipe Almeida <filipe@marmelos.com>
+ * Author: Filipe Almeida
  */
 
 #ifndef __NX_OM_KAFKA_H
