@@ -15,12 +15,10 @@ In any case it's functional and you can use it at your own risk.
 # Usage
 
 ## Requirements
-	The GNU toolchain
-	GNU make
-   	pthreads
-	zlib
-	[https://github.com/edenhill/librdkafka](librdkafka)
-	[http://nxlog-ce.sourceforge.net/] nxlog-ce, patch included for version 2.8.1248
+*The GNU toolchain
+*GNU make
+*[https://github.com/edenhill/librdkafka](librdkafka)
+*[http://nxlog-ce.sourceforge.net/] nxlog-ce, patch included for version 2.8.1248
 
 ## Instructions
 
