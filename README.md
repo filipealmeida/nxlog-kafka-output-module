@@ -73,7 +73,7 @@ Build and install nxlog with kafka output module
 	</Input>
 	<Output outKafka>
 	  Module      om_kafka
-	  BrokerList  10.150.137.205:9092,expert-services.telecom.pt:9092
+	  BrokerList  localhost:9092,otherhost.example.com:9092
 	  Topic       test
 	  #-- Partition   <number> - defaults to RD_KAFKA_PARTITION_UA
 	  #-- Compression, one of none, gzip, snappy
