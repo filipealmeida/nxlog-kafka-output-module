@@ -24,6 +24,7 @@ In any case it's functional and you can use it at your own risk.
 
 
 ### Building and installing
+#### *NIXes
 Download and install librdkafka
 
 	git clone https://github.com/edenhill/librdkafka.git
@@ -52,6 +53,9 @@ Build and install nxlog with kafka output module
 	./configure
 	make
 	sudo make install
+
+#### Microsoft Windows
+Keep calm (brace yourselves) and refer to the INSTALL.windows.md file
 
 ### Sample nxlog configuration
 
